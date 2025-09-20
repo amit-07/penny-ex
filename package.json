@@ -30,5 +30,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "resolutions": {
+    "elliptic": "6.6.1",
+    "path-to-regexp": "8.3.0"
   }
 }
